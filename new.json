@@ -1,0 +1,11 @@
+{
+	"information":{
+        "name":"Alexander",
+		"surname":"Kanoda",
+		"patronymic":"Sergeevich",
+		"age":31,
+		"pets":1,
+		"salary":1000
+	}
+}
+
